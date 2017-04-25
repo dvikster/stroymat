@@ -19,7 +19,3 @@ window.onload = function(){
 
        document.getElementById("out").innerHTML = rashod + " мешков";
     }
-
-
-
-// document.getElementById("action").addEventListener(zc());
